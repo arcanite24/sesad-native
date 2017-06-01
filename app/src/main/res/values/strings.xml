@@ -3,4 +3,5 @@
     <string name="login_username">Boleta / Nombre de usuario</string>
     <string name="login_button">Iniciar Sesión</string>
     <string name="login_password">Contraseña</string>
+    <string name="login_go">Entrar sin cuenta</string>
 </resources>
